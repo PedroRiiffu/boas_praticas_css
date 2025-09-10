@@ -10,8 +10,8 @@
     align-items: center;
 }
 
-.em__destaque { 
-    border: 2px solid gold;
+.produto__em--destaque { 
+    border: 2px solid rgb(249, 219, 49);
     padding: 8px;
-    background-color: #ffff42;
+    background-color: #ffdf51;
 }
